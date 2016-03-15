@@ -7,7 +7,7 @@ Sudoku Solver
 Puzzles are loaded from the "./boards" folder and are ".brd" files
 Puzzles are formatted 9 x 9, 0 represents an empty spot that will be solved
 
-Example board as found int board1.brd:
+Example board as found in board1.brd:
 
 000060100
 061050940
