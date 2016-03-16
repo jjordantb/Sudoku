@@ -6,7 +6,7 @@ import java.awt.*;
  */
 public class Application {
 
-    public static final String BOARD_LOCATION = "./boards/board2.brd";
+    public static final String BOARD_LOCATION = "../boards/board1.brd";
 
     public static void main(String[] args) {
         final JFrame frame = new JFrame("Sudoku");

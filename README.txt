@@ -4,7 +4,7 @@ Jordan Florchinger
 
 Sudoku Solver
 
-Puzzles are loaded from the "./boards" folder and are ".brd" files
+Puzzles are loaded from the "../boards" folder and are ".brd" files
 Puzzles are formatted 9 x 9, 0 represents an empty spot that will be solved
 
 Example board as found in board1.brd:
@@ -22,4 +22,7 @@ Example board as found in board1.brd:
 To change the board open "Application.java" and modify the public static final BOARD_LOCATION
 to the path of the desired board.
 
-To compile: TODO
+To compile: Navigate to the "src" folder and run "javac *.java"
+To run: Navigate to the "src" folder and run "java Application"
+
+Note you must recompile every time you change the board path
